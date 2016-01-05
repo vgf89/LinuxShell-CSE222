@@ -1,6 +1,6 @@
 # CS:APP Shell Lab
 
-# See PDF for details of tasks
+# See shlab.pdf for details of assignment
 
 ## Files:
 * Makefile: Compiles your shell program and runs the tests
