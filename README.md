@@ -1,10 +1,14 @@
 # CS:APP Shell Lab
 
-# See shlab.pdf for details of assignment
+See shlab.pdf for details of assignment.
+
+PLEASE NOTE: This shell does not search PATH for executables, so the full path of an executable must be use to 
+run anything.
+
 
 ## Files:
 * Makefile: Compiles your shell program and runs the tests
-* README: This file
+* README.md: This file
 * tsh.c: The shell program that you will write and hand in
 * tshref: The reference shell binary.
 
